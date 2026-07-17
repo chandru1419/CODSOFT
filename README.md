@@ -1,6 +1,6 @@
 # CODSOFT - Artificial Intelligence Internship
 
-## ✅ Tasks Completed
+##  Tasks Completed
 
 ### Task 1: Rule-Based Chatbot
 Simple chatbot using pattern matching and if-else logic.
@@ -14,8 +14,8 @@ Unbeatable AI using Minimax algorithm with Alpha-Beta Pruning.
 Content-based movie recommendation using cosine similarity.
 📁 `Task3_Recommendation/recommendation.py`
 
-## 🛠️ Tech Stack
+##  Tech Stack
 Python
 
-## 🙋‍♂️ About
+##  About
 Internship by [CodSoft](https://www.codsoft.in)
